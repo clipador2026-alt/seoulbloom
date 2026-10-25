@@ -1,0 +1,1 @@
+export default function Contato(){return <main><header className="page-title"><h1>Contato</h1></header><article className="narrow"><p>Em breve disponibilizaremos um canal oficial para sugestões, correções e parcerias.</p><p>Esta página precisa ser completada com um e-mail de contato antes do lançamento público.</p></article></main>}
