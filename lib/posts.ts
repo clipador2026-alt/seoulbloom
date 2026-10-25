@@ -167,6 +167,189 @@ export const posts:Post[]=[
         ]
       }
     ]
+  },
+  {
+    "slug": "como-escrever-resenha-de-dorama",
+    "title": "Como escrever uma resenha de dorama sem spoilers",
+    "description": "Um guia para analisar personagens, roteiro, ritmo e emoções sem estragar a experiência de quem ainda vai assistir.",
+    "category": "doramas",
+    "date": "2026-10-25",
+    "sections": [
+      {
+        "heading": "Uma resenha é mais do que dizer se você gostou",
+        "paragraphs": [
+          "Terminar um dorama costuma deixar uma mistura de emoções. Às vezes queremos indicar a história para todo mundo; em outras, ficamos pensando no que poderia ter sido melhor. Escrever uma resenha é uma maneira de organizar essas impressões e ajudar outra pessoa a decidir se aquela produção combina com seus interesses.",
+          "Uma boa resenha não precisa fingir neutralidade. Ela pode ter opinião e personalidade, desde que deixe claro o que é impressão pessoal e o que é informação sobre a obra. O objetivo não é provar que uma série é boa ou ruim para todas as pessoas, mas explicar como ela funciona e por que causou determinada reação."
+        ]
+      },
+      {
+        "heading": "Comece com uma ficha básica e confiável",
+        "paragraphs": [
+          "Antes de avaliar a história, registre o título pelo qual ela é conhecida no Brasil, o título original quando disponível, o gênero, o ano de lançamento e a quantidade de episódios. Se citar elenco, direção ou roteiro, confira os créditos oficiais da produção ou a página da distribuidora.",
+          "Não copie automaticamente fichas publicadas em redes sociais. Informações sobre plataformas, dublagem e disponibilidade mudam ao longo do tempo. Caso você indique onde assistir, informe que o catálogo deve ser consultado no momento da leitura.",
+          "Essa ficha é especialmente útil para quem chega ao blog procurando uma recomendação rápida. Ela oferece contexto sem revelar nenhum acontecimento importante."
+        ]
+      },
+      {
+        "heading": "Explique a premissa, não a solução do conflito",
+        "paragraphs": [
+          "A sinopse da sua resenha deve responder a três perguntas: quem está no centro da história, qual é o conflito inicial e que tipo de experiência o público pode esperar. Você pode falar sobre uma amizade improvável, um desafio profissional ou um mistério sem revelar como tudo termina.",
+          "Evite descrever reviravoltas, identidades secretas, mortes inesperadas ou decisões do último episódio. Mesmo acontecimentos do meio da temporada podem ser spoilers para quem ainda está escolhendo o que assistir.",
+          "Uma técnica simples é imaginar que você está apresentando a série a alguém que nunca viu o trailer. Conte o suficiente para despertar interesse e pare antes de transformar a apresentação em um resumo completo."
+        ]
+      },
+      {
+        "heading": "Analise personagens e relações com exemplos gerais",
+        "paragraphs": [
+          "Pergunte se os protagonistas têm objetivos compreensíveis e se suas escolhas fazem sentido dentro da história. Personagens não precisam ser perfeitos para funcionar: contradições e falhas podem torná-los mais interessantes quando o roteiro trabalha essas características com cuidado.",
+          "Observe também os personagens secundários. Eles têm motivações próprias ou aparecem apenas para resolver problemas dos protagonistas? As amizades, os conflitos familiares e as relações profissionais contribuem para o tema central?",
+          "Em uma resenha sem spoilers, prefira comentários como 'a amizade ganha espaço ao longo dos episódios' em vez de narrar uma cena específica que muda a relação entre duas pessoas."
+        ]
+      },
+      {
+        "heading": "Avalie o ritmo e a construção do roteiro",
+        "paragraphs": [
+          "Algumas histórias começam de maneira acelerada e depois desaceleram para desenvolver os personagens. Outras reservam as maiores revelações para a reta final. O importante é analisar se esse ritmo combina com a proposta da série, e não exigir que todas sigam o mesmo padrão.",
+          "Considere se os conflitos surgem de forma natural, se as decisões têm consequências e se as tramas paralelas recebem atenção suficiente. Uma história pode ser previsível e ainda assim emocionante; o problema aparece quando a previsibilidade impede qualquer envolvimento com os personagens.",
+          "Se você sentiu que certos episódios repetiram situações, explique a sensação de maneira concreta, sem entregar eventos decisivos. Isso torna a crítica mais útil do que dizer apenas que a série ficou 'arrastada'."
+        ]
+      },
+      {
+        "heading": "Observe fotografia, trilha sonora e ambientação",
+        "paragraphs": [
+          "A experiência de assistir também é construída por elementos visuais e sonoros. Cores, enquadramentos, cenários, figurinos e música ajudam a definir o clima de uma cena. Uma história intimista pode usar espaços pequenos e silêncio; uma fantasia pode apostar em efeitos visuais e cenários grandiosos.",
+          "Você não precisa conhecer termos técnicos de cinema para comentar esses aspectos. Descreva o que percebeu: a fotografia transmite aconchego? A trilha reforça emoções ou aparece em excesso? A ambientação ajuda a entender o universo dos personagens?",
+          "Evite afirmar que uma locação é real ou que determinada música foi composta para a série sem confirmar a informação em fontes apropriadas."
+        ]
+      },
+      {
+        "heading": "Separe gosto pessoal de recomendação",
+        "paragraphs": [
+          "Talvez você não goste de romances lentos, mas reconheça que uma produção desenvolveu bem seus personagens. Ou adore uma série apesar de perceber problemas no roteiro. Essas duas avaliações podem coexistir.",
+          "Uma conclusão útil explica para quem o dorama pode funcionar: pessoas que gostam de histórias leves, de mistérios complexos, de dramas familiares ou de narrativas com ritmo contemplativo. Também vale dizer quem talvez não aproveite tanto a experiência.",
+          "Em vez de uma nota isolada, apresente dois pontos fortes, uma ressalva e uma recomendação de público. Esse pequeno equilíbrio deixa o texto mais honesto e informativo."
+        ]
+      },
+      {
+        "heading": "Modelo simples para organizar sua resenha",
+        "paragraphs": [
+          "Primeiro, apresente os dados essenciais e uma sinopse curta. Depois, escreva um parágrafo sobre os personagens, outro sobre o roteiro e o ritmo e um terceiro sobre os aspectos visuais ou a trilha. Termine explicando o que mais marcou você e para quem recomenda a obra.",
+          "Se quiser usar uma escala de avaliação, explique os critérios. Uma nota pode refletir roteiro, atuações, ritmo e impacto emocional, mas não deve parecer uma medida universal de qualidade.",
+          "Por fim, revise o texto procurando spoilers involuntários. Confira nomes e créditos e diferencie claramente suas opiniões das informações verificáveis."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "paragraphs": [
+          "Posso fazer uma resenha negativa? Sim. Críticas respeitosas e fundamentadas ajudam leitores a fazer escolhas. Ataques pessoais a artistas ou fãs não acrescentam análise.",
+          "Preciso contar o final para explicar minha opinião? Não. É possível avaliar desenvolvimento, tom e coerência sem revelar o desfecho. Se decidir publicar uma análise com spoilers, identifique-a claramente e mantenha-a separada da resenha introdutória.",
+          "Preciso ser especialista em cinema? Não. Atenção, curiosidade e disposição para justificar suas impressões já são um ótimo começo."
+        ]
+      },
+      {
+        "heading": "Uma boa resenha abre uma conversa",
+        "paragraphs": [
+          "O melhor resultado de uma resenha não é fazer todo mundo concordar com você. É ajudar leitores a entender o que esperar de uma história e estimular conversas interessantes sobre personagens, escolhas narrativas e emoções.",
+          "Com prática, suas análises ganham uma voz própria. E cada texto pode se tornar uma lembrança de como determinado dorama marcou uma fase da sua vida."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "etiqueta-e-cumprimentos-coreia-do-sul",
+    "title": "Cumprimentos e etiqueta na Coreia do Sul: guia para curiosos",
+    "description": "Entenda gestos de respeito, formas de tratamento e cuidados ao interpretar costumes vistos em doramas.",
+    "category": "cultura",
+    "date": "2026-10-25",
+    "sections": [
+      {
+        "heading": "O que os doramas mostram — e o que não mostram",
+        "paragraphs": [
+          "Quem acompanha séries coreanas provavelmente já percebeu personagens fazendo pequenas reverências, usando diferentes formas de tratamento e prestando atenção à idade ou à posição social de alguém. Esses detalhes podem despertar curiosidade, mas uma cena de ficção não explica sozinha toda a vida cotidiana na Coreia do Sul.",
+          "Os costumes variam conforme geração, ambiente, grau de intimidade e situação. Uma reunião de trabalho formal não funciona exatamente como um encontro entre amigos. Por isso, é melhor aprender princípios gerais e observar o contexto do que transformar uma cena de dorama em regra para todas as pessoas.",
+          "Este guia apresenta noções introdutórias para quem quer compreender melhor interações sociais e viajar com mais sensibilidade cultural. Não é um manual rígido de comportamento nem substitui orientações de anfitriões e instituições locais."
+        ]
+      },
+      {
+        "heading": "Reverências: um gesto com diferentes significados",
+        "paragraphs": [
+          "Inclinar levemente a cabeça ou o tronco pode acompanhar cumprimentos, agradecimentos e pedidos de desculpas. A profundidade e a formalidade do gesto dependem da situação. Em encontros cotidianos, uma pequena inclinação pode ser suficiente; cerimônias e ocasiões solenes seguem outros padrões.",
+          "Você não precisa calcular um ângulo exato para demonstrar respeito. Observar como as pessoas ao redor cumprimentam umas às outras e responder de maneira educada costuma ser mais importante do que tentar reproduzir gestos vistos na televisão.",
+          "O aperto de mão também existe, especialmente em contextos profissionais ou internacionais. Em algumas situações, uma reverência discreta acompanha o cumprimento."
+        ]
+      },
+      {
+        "heading": "Linguagem formal e informal",
+        "paragraphs": [
+          "A língua coreana possui formas de fala que expressam diferentes níveis de formalidade e respeito. Isso ajuda a explicar por que personagens podem mudar a maneira de falar dependendo de quem está presente ou de como a relação evolui.",
+          "Para iniciantes, é útil reconhecer que a escolha das terminações verbais e das palavras não depende apenas de traduzir 'você' ou 'senhor'. Idade, contexto, familiaridade e relações sociais podem influenciar a forma de expressão.",
+          "Ao aprender coreano, comece por saudações educadas e materiais didáticos confiáveis. Não use automaticamente com desconhecidos uma expressão informal que ouviu entre amigos íntimos em uma série."
+        ]
+      },
+      {
+        "heading": "Idade e formas de tratamento",
+        "paragraphs": [
+          "Em muitos contextos, a idade e a senioridade podem influenciar a forma de se dirigir a outra pessoa. Termos familiares e de proximidade aparecem com frequência em doramas, mas seus usos dependem de quem fala, da relação e do contexto.",
+          "Isso não significa que todas as interações sejam definidas apenas pela idade. Ambiente profissional, preferência individual e mudanças culturais também importam. A maneira mais segura de se dirigir a alguém é prestar atenção à apresentação da pessoa e seguir orientações quando houver dúvida.",
+          "Para quem estuda o idioma, aprender vocabulário junto com exemplos de uso é mais útil do que decorar traduções isoladas."
+        ]
+      },
+      {
+        "heading": "Entregar e receber objetos com cuidado",
+        "paragraphs": [
+          "Em situações mais formais, oferecer ou receber algo usando as duas mãos, ou apoiando uma mão no braço da outra, pode transmitir consideração. O gesto pode aparecer ao trocar cartões, presentes e outros objetos.",
+          "O significado não é mecânico: contexto e intenção importam. Um gesto cuidadoso não substitui uma conversa respeitosa, e as práticas podem variar entre famílias, empresas e gerações.",
+          "Se estiver visitando o país, observe o comportamento do anfitrião e procure agir de forma atenciosa. Quando não souber o que fazer, perguntar educadamente é melhor do que presumir que existe uma única regra."
+        ]
+      },
+      {
+        "heading": "Sapatos e espaços internos",
+        "paragraphs": [
+          "Em muitas casas coreanas, é costume tirar os sapatos antes de entrar. Alguns restaurantes tradicionais e determinados espaços também podem pedir que visitantes deixem os calçados em uma área indicada.",
+          "Nem todo estabelecimento exige isso. Observe a entrada, a presença de sapateiras e as instruções dos responsáveis. Em uma visita a uma residência, siga a orientação do anfitrião.",
+          "Uma atitude simples é usar meias confortáveis e fáceis de manter limpas, especialmente se você sabe que vai visitar lugares onde se retiram os sapatos."
+        ]
+      },
+      {
+        "heading": "Comportamento à mesa",
+        "paragraphs": [
+          "Refeições são momentos importantes de convivência, mas não existe uma etiqueta única para todas as famílias e restaurantes. A formalidade de um jantar de negócios pode ser diferente da de um almoço descontraído.",
+          "Em contextos tradicionais, a relação com pessoas mais velhas pode influenciar a ordem de certos gestos à mesa. Entretanto, visitantes não precisam adivinhar todas as convenções: observar o grupo e seguir o ritmo dos anfitriões ajuda bastante.",
+          "Também vale lembrar que a comida retratada em doramas pode refletir escolhas de produção. Para conhecer melhor a culinária, procure fontes gastronômicas, livros e materiais culturais, além de experimentar receitas com atenção aos ingredientes."
+        ]
+      },
+      {
+        "heading": "Respeito em lugares públicos e turísticos",
+        "paragraphs": [
+          "Ao visitar templos, palácios, museus ou memoriais, confira as regras do local sobre fotografias, silêncio, vestuário e circulação. Um espaço histórico não é apenas cenário para fotos; ele pode ter significado religioso, cultural ou comunitário.",
+          "No transporte público e em áreas movimentadas, respeite sinalizações e a organização do espaço. Regras de prioridade, filas e circulação podem ser diferentes daquelas com que você está acostumado.",
+          "Se quiser fotografar uma pessoa, peça autorização. Isso vale especialmente em mercados, estabelecimentos pequenos e bairros residenciais que ficaram conhecidos por aparecer em produções audiovisuais."
+        ]
+      },
+      {
+        "heading": "Evite generalizações culturais",
+        "paragraphs": [
+          "Nenhuma série, celebridade ou influenciador representa a experiência de toda uma população. A Coreia do Sul reúne pessoas com hábitos, opiniões e trajetórias diferentes, assim como acontece em qualquer país.",
+          "Ao aprender sobre um costume, procure entender em quais situações ele aparece, como mudou ao longo do tempo e quais são as exceções. A curiosidade cultural fica mais rica quando deixa espaço para diversidade e transformação.",
+          "Fontes oficiais de turismo, materiais educacionais e relatos contextualizados podem complementar aquilo que você observa na ficção."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "paragraphs": [
+          "Preciso fazer reverência a todas as pessoas? Não há uma resposta única para todos os contextos. Uma saudação educada e atenção ao comportamento local são bons pontos de partida.",
+          "É falta de respeito usar linguagem informal em coreano? Pode soar inadequado em certas situações, especialmente com desconhecidos. Se estiver aprendendo, priorize formas educadas.",
+          "Todos os lugares exigem tirar os sapatos? Não. Observe as instruções de cada residência ou estabelecimento."
+        ]
+      },
+      {
+        "heading": "Curiosidade com respeito é o melhor caminho",
+        "paragraphs": [
+          "Os detalhes culturais vistos em doramas podem ser o início de um aprendizado muito interessante. Em vez de decorar regras absolutas, tente compreender por que certos gestos são usados e como o contexto modifica seu significado.",
+          "Essa postura ajuda tanto quem quer viajar quanto quem apenas deseja assistir a uma série com mais atenção aos pequenos elementos do cotidiano retratado na tela."
+        ]
+      }
+    ]
   }
 ];
 export const getCategory=(slug:string)=>categories.find(c=>c.slug===slug);
