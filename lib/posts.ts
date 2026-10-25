@@ -1858,6 +1858,70 @@ export const posts:Post[]=[
         ]
       }
     ]
+  },
+  {
+    "slug": "pousando-no-amor-resenha",
+    "title": "Pousando no Amor: resenha sobre romance, diferenças e fronteiras",
+    "description": "Minha experiência com Pousando no Amor: os contrastes entre os protagonistas, os soldados, as mulheres da vila e um final feliz entre aspas.",
+    "category": "doramas",
+    "date": "2026-10-25",
+    "sections": [
+      {
+        "heading": "Uma história que me conquistou aos poucos",
+        "paragraphs": [
+          "No início, Pousando no Amor me pareceu um pouco confuso. A realidade apresentada era muito diferente daquela com a qual estamos acostumadas no Brasil, e precisei de tempo para entrar na história. Aos poucos, porém, comecei a entender melhor as situações dos personagens e me envolver com a trama.",
+          "O que mais me chamou a atenção foi a maneira como o dorama mistura romance com a separação histórica entre a Coreia do Norte e a Coreia do Sul. Esse contexto continua sendo importante até hoje, e a série me despertou curiosidade sobre as consequências humanas dessa divisão.",
+          "É importante lembrar que a produção é uma ficção romântica: embora se inspire em diferenças reais entre os países, não deve ser tratada como um documentário sobre a vida norte-coreana."
+        ]
+      },
+      {
+        "heading": "Dois protagonistas que parecem opostos",
+        "paragraphs": [
+          "Yoon Se-ri é uma empresária de sucesso, acostumada ao consumo, ao conforto e à dinâmica capitalista da Coreia do Sul. Ri Jeong-hyeok, por outro lado, é um militar disciplinado, reservado e de hábitos mais simples.",
+          "O que achei bonito nesse relacionamento foi perceber que eles conseguem encontrar um meio-termo mesmo sendo tão diferentes. Não precisam se tornar pessoas iguais para criar uma ligação. O contraste entre os dois também representa, de maneira romântica, o encontro de mundos separados por uma fronteira.",
+          "Na minha leitura, o casal não luta apenas para ficar junto. Em vários momentos, também tenta proteger e trazer tranquilidade para as pessoas que estão ao redor."
+        ]
+      },
+      {
+        "heading": "As mulheres da vila e as dificuldades compartilhadas",
+        "paragraphs": [
+          "Outro aspecto que me marcou foi a presença das mulheres da vila. Mesmo vivendo em um contexto de restrições e com acesso diferente à tecnologia, elas ainda têm vaidades, preocupações, conflitos e dificuldades que lembram experiências de mulheres em outros lugares.",
+          "Gostei de perceber essas semelhanças em meio a tantas diferenças. A série dá espaço para que elas tenham personalidades próprias, vínculos e momentos de humor, sem ficarem reduzidas a simples figurantes da história de amor.",
+          "Isso não significa que a realidade de todas as mulheres norte-coreanas seja igual à mostrada na televisão. Minha observação diz respeito às personagens e ao modo como foram escritas."
+        ]
+      },
+      {
+        "heading": "A bondade dos soldados em um ambiente rígido",
+        "paragraphs": [
+          "Os soldados que convivem com Ri Jeong-hyeok também foram uma surpresa positiva para mim. Apesar de estarem inseridos em um ambiente militar agressivo e cheio de regras, demonstram inocência, amizade e bondade.",
+          "Esse comportamento contrasta com o de outros militares retratados na série. O grupo acaba trazendo leveza para uma história que poderia ser apenas tensa, além de mostrar que solidariedade e afeto aparecem mesmo em situações difíceis.",
+          "Para mim, são esses personagens secundários que tornam o universo do dorama mais acolhedor e ajudam a equilibrar os momentos de drama e romance."
+        ]
+      },
+      {
+        "heading": "O final é feliz, mas entre aspas — contém spoilers",
+        "paragraphs": [
+          "Eu considero o final feliz, porém entre aspas. Depois de acompanhar tudo que o casal enfrenta, criamos a expectativa de que os dois finalmente possam viver juntos sem tantas limitações. O desfecho não corresponde completamente a esse desejo.",
+          "Ainda assim, a maneira como encontram oportunidades para se ver demonstra o quanto se amam e estão dispostos a fazer esforços para manter o relacionamento. É um encerramento que mistura satisfação com a sensação de que eles mereciam mais tempo juntos.",
+          "Talvez seja justamente essa combinação que faça o final permanecer na memória: a história não apaga as dificuldades que separaram os protagonistas, mesmo quando oferece momentos de felicidade."
+        ]
+      },
+      {
+        "heading": "Vale a pena assistir Pousando no Amor?",
+        "paragraphs": [
+          "Na minha experiência, vale a pena dar uma chance ao dorama mesmo que os primeiros episódios pareçam diferentes ou confusos. A história ganha força quando começamos a nos conectar com os personagens e com o contexto em que vivem.",
+          "Eu destacaria o contraste entre Yoon Se-ri e Ri Jeong-hyeok, a humanidade das mulheres da vila, a inocência dos soldados e o modo como a narrativa une romance e drama.",
+          "Recomendo especialmente para quem gosta de histórias de amor atravessadas por obstáculos, mas também aprecia personagens secundários marcantes e reflexões sobre diferenças culturais."
+        ]
+      },
+      {
+        "heading": "Fontes e informações sobre a produção",
+        "paragraphs": [
+          "A série tem 16 episódios e foi dirigida por Lee Jung-hyo, com roteiro de Park Ji-eun, segundo a distribuidora CJ ENM. Para consultar a sinopse e os créditos oficiais, acesse: https://www.cjenm.com/en/featured-contents/crash-landing-on-you/",
+          "Os retratos dos atores exibidos abaixo são fotografias de eventos públicos, com créditos e licenças indicados junto às imagens."
+        ]
+      }
+    ]
   }
 ];
 export const getCategory=(slug:string)=>categories.find(c=>c.slug===slug);
