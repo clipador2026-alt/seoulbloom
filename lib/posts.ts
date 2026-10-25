@@ -2027,6 +2027,63 @@ export const posts:Post[]=[
         ]
       }
     ]
+  },
+  {
+    "slug": "pretendente-surpresa-resenha",
+    "title": "Pretendente Surpresa: resenha de um romance que começou na confusão",
+    "description": "Minha resenha de Pretendente Surpresa: o amor de Shin Ha-ri e Kang Tae-moo, o segundo casal, a amizade que virou família e um final digno de filme.",
+    "category": "doramas",
+    "date": "2026-10-25",
+    "sections": [
+      {
+        "heading": "Um amor intenso que começou com uma grande bagunça",
+        "paragraphs": [
+          "Para mim, Pretendente Surpresa conta um amor intenso e verdadeiro que começa com uma grande bagunça. É uma daquelas histórias em que o acaso e o destino parecem trabalhar juntos para que duas pessoas se encontrem.",
+          "Shin Ha-ri aceita ir a um encontro às cegas no lugar da amiga Jin Young-seo, sem imaginar a confusão que está prestes a começar. O encontro com Kang Tae-moo transforma uma situação inesperada no ponto de partida de um romance.",
+          "O que me encanta é ver como algo que começou completamente fora dos planos dos dois pode se transformar em um sentimento tão forte. A comédia e os desencontros fazem parte do charme da história."
+        ]
+      },
+      {
+        "heading": "Kang Tae-moo: do orgulho à dedicação",
+        "paragraphs": [
+          "No início, enxerguei Kang Tae-moo como alguém um pouco narcisista, muito centrado em si mesmo. Ele parece acostumado a controlar as situações e a ter as coisas do seu jeito.",
+          "Mas, quando descobre o amor que sente por Shin Ha-ri, passa a demonstrar uma devoção enorme à companheira. Para mim, essa mudança é uma das partes mais interessantes do personagem.",
+          "Não é que ele se torne perfeito de repente. O que chama a atenção é a descoberta de que amar também envolve olhar para a outra pessoa e demonstrar dedicação."
+        ]
+      },
+      {
+        "heading": "Jin Young-seo e Cha Sung-hoon: um segundo casal que brilha",
+        "paragraphs": [
+          "Achei Jin Young-seo e Cha Sung-hoon um casal lindo. Uma das grandes qualidades de Pretendente Surpresa é que o romance secundário não perde o brilho diante dos protagonistas.",
+          "A série explora bem os dois casais e permite que cada relação tenha seus próprios momentos de aproximação, tensão e carinho.",
+          "A dinâmica de provocações e desencontros, que lembra o estilo enemies to lovers em parte da história, ajuda a manter a comédia romântica envolvente. Para mim, o equilíbrio entre os romances é um dos acertos do dorama."
+        ]
+      },
+      {
+        "heading": "Shin Ha-ri e Jin Young-seo: uma amizade que virou família",
+        "paragraphs": [
+          "Outro ponto especial é a amizade de longa data entre Shin Ha-ri e Jin Young-seo. Para mim, é uma daquelas amizades que ultrapassam a convivência e se tornam família.",
+          "A cumplicidade entre elas é tão grande que o encontro às cegas, responsável por iniciar a confusão principal, acontece justamente porque Ha-ri aceita ajudar Young-seo.",
+          "Mesmo quando cada uma vive sua própria história de amor, a ligação entre as duas continua importante. É bonito ver uma amizade que não depende de laços de sangue para ser profunda e verdadeira."
+        ]
+      },
+      {
+        "heading": "Um final lindo, digno de filme",
+        "paragraphs": [
+          "O final de Pretendente Surpresa me pareceu lindo, digno de um filme romântico e à altura das expectativas criadas durante a série.",
+          "Depois de tantas confusões, encontros inesperados e momentos apaixonantes, é satisfatório chegar a um encerramento que combina com o tom leve e romântico da história.",
+          "Para mim, a série consegue entregar aquela sensação boa de ter acompanhado uma história de amor divertida e envolvente, com espaço para os dois casais brilharem."
+        ]
+      },
+      {
+        "heading": "Vale a pena assistir Pretendente Surpresa?",
+        "paragraphs": [
+          "Eu recomendaria Pretendente Surpresa para quem gosta de comédias românticas com muita química, situações improváveis e personagens pelos quais é fácil torcer.",
+          "O que mais me marcou foi o romance que nasceu do acaso, a transformação de Kang Tae-moo quando se apaixonou, o espaço dado ao segundo casal e a amizade entre Ha-ri e Young-seo, que já parecia uma relação de família.",
+          "É uma história que começou na maior bagunça, mas encontrou um caminho bonito até o final."
+        ]
+      }
+    ]
   }
 ];
 export const getCategory=(slug:string)=>categories.find(c=>c.slug===slug);
