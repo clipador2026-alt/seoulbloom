@@ -1,1 +1,2 @@
+export const dynamic = "force-static";
 import type {MetadataRoute} from "next";import {posts,categories} from "../lib/posts";export default function sitemap():MetadataRoute.Sitemap{const base="https://seoulbloom.me";const paths=["/","/blog/","/categorias/","/sobre/","/contato/","/privacidade/","/termos/",...posts.map(p=>`/blog/${p.slug}/`),...categories.map(c=>`/categorias/${c.slug}/`)];return paths.map(path=>({url:base+path,changeFrequency:"monthly" as const}));}
