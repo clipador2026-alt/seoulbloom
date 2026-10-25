@@ -1971,6 +1971,62 @@ export const posts:Post[]=[
         ]
       }
     ]
+  },
+  {
+    "slug": "sorriso-real-resenha",
+    "title": "Sorriso Real: resenha sobre amor, amizade e determinação",
+    "description": "Minha resenha de Sorriso Real (King the Land): Cheon Sa-rang, Gu Won, a força das amizades e um final lindo e inspirador.",
+    "category": "doramas",
+    "date": "2026-10-25",
+    "sections": [
+      {
+        "heading": "Um romance lindo que vai além do casal",
+        "paragraphs": [
+          "Para mim, Sorriso Real é um romance lindo, mas o que mais chama a atenção é a verdadeira força de uma mulher determinada. Cheon Sa-rang não existe na história apenas para se apaixonar: ela tem seu próprio caminho, enfrenta desafios e descobre o que deseja construir.",
+          "O relacionamento com Gu Won é importante justamente porque não apaga essa trajetória. O amor aparece ao lado da determinação, não no lugar dela."
+        ]
+      },
+      {
+        "heading": "Gu Won apoia sem tirar o protagonismo de Sa-rang",
+        "paragraphs": [
+          "O que mais gostei na relação dos protagonistas foi perceber que Gu Won deixou Cheon Sa-rang protagonizar a própria vida enquanto a apoiava.",
+          "Na minha interpretação, ele não chega para resolver tudo por ela nem para decidir seu futuro. Ele demonstra carinho respeitando suas escolhas e permitindo que ela siga seu caminho.",
+          "Isso torna o romance especial: o relacionamento não exige que Sa-rang abra mão de quem é ou dos objetivos que descobre ao longo da história."
+        ]
+      },
+      {
+        "heading": "As dificuldades no trabalho e o sonho que nasce no caminho",
+        "paragraphs": [
+          "À primeira vista, algumas situações que Sa-rang enfrenta no trabalho parecem até incabíveis. A forma como é tratada em certos momentos causa indignação.",
+          "Mas o que mais me marcou foi a maneira como ela atravessa essas dificuldades e encontra um propósito. Seu sonho nasce durante a própria caminhada, a partir do que vive e aprende.",
+          "Isso não significa que os tratamentos injustos sejam necessários ou aceitáveis. Para mim, a inspiração está na resposta da personagem: ela continua seguindo em frente até conseguir realizar o sonho que construiu ao longo do percurso."
+        ]
+      },
+      {
+        "heading": "Cheon Sa-rang, Oh Pyeong-hwa e Kang Da-eul: uma amizade de verdade",
+        "paragraphs": [
+          "Além do romance, achei linda a amizade entre Cheon Sa-rang, Oh Pyeong-hwa e Kang Da-eul. É uma relação baseada em suporte, confiança e amor puro.",
+          "As três estavam, de certa forma, no mesmo barco. Cada uma tinha suas dificuldades, mas todas torciam pelas conquistas umas das outras.",
+          "Esse apoio mútuo me marcou porque mostra que ninguém precisa caminhar sozinha. O amor também está presente nas amizades que nos fortalecem e celebram nossas vitórias."
+        ]
+      },
+      {
+        "heading": "O final de Sorriso Real é lindo e inspirador",
+        "paragraphs": [
+          "Para mim, Sorriso Real teve um final lindo e inspirador. Depois de acompanhar os desafios profissionais, as amizades e o romance de Sa-rang, é emocionante ver o significado da trajetória dela.",
+          "O que mais me inspira é que a protagonista encontra apoio sem perder sua independência. Ela descobre e realiza um sonho que nasceu ao longo da caminhada.",
+          "A história me deixou a sensação de que um relacionamento bonito não precisa diminuir a força de ninguém. O amor pode acompanhar nossos objetivos, enquanto as amizades nos dão confiança para continuar."
+        ]
+      },
+      {
+        "heading": "Vale a pena assistir Sorriso Real?",
+        "paragraphs": [
+          "Eu recomendaria Sorriso Real a quem gosta de romances delicados, mas também quer acompanhar uma protagonista determinada. O dorama combina amor, trabalho, sonhos e uma amizade feminina muito bonita.",
+          "Minha parte favorita da mensagem é que Sa-rang continua sendo a protagonista da própria vida. Gu Won a apoia, suas amigas torcem por ela e, no fim, o caminho que constrói é dela.",
+          "Mais do que um romance entre pessoas de realidades diferentes, essa é, para mim, uma história sobre confiança, apoio e realização pessoal."
+        ]
+      }
+    ]
   }
 ];
 export const getCategory=(slug:string)=>categories.find(c=>c.slug===slug);
