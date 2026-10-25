@@ -1922,6 +1922,55 @@ export const posts:Post[]=[
         ]
       }
     ]
+  },
+  {
+    "slug": "rainha-das-lagrimas-resenha",
+    "title": "Rainha das Lágrimas: resenha sobre amor, ganância e família",
+    "description": "Minha opinião sobre Rainha das Lágrimas: os conflitos de Hong Hae-in e Baek Hyun-woo, a disputa familiar e os sentimentos que a doença revela. Sem spoilers do final.",
+    "category": "doramas",
+    "date": "2026-10-25",
+    "sections": [
+      {
+        "heading": "Muito mais que uma história de amor",
+        "paragraphs": [
+          "Rainha das Lágrimas é uma série conturbada. O que mais me chamou a atenção foi como a trama mistura ganância, família, amor, caráter e mudança, tudo em uma mesma história.",
+          "Em vez de acompanhar apenas um casal, vemos conflitos que se espalham pelos relacionamentos familiares e pelas escolhas individuais. Dinheiro, orgulho e sentimentos se cruzam constantemente, e isso torna a narrativa intensa.",
+          "Esta resenha reúne minhas impressões sobre os episódios que assisti até agora. Ainda não vi o final, por isso não vou comentar nem antecipar o desfecho."
+        ]
+      },
+      {
+        "heading": "Hong Hae-in e Baek Hyun-woo: o amor não era o único problema",
+        "paragraphs": [
+          "Para mim, o que impedia Hong Hae-in e Baek Hyun-woo de dar o próximo passo não era simplesmente a falta de amor. Eram a falta de comunicação, os traumas e o ego.",
+          "Quando duas pessoas deixam de conversar sobre o que sentem, as mágoas se acumulam e o relacionamento se desgasta. Foi assim que enxerguei a dificuldade dos protagonistas em se aproximar, mesmo quando ainda existiam sentimentos entre eles.",
+          "A série me fez pensar em como o orgulho pode criar distâncias entre pessoas que, no fundo, precisam uma da outra."
+        ]
+      },
+      {
+        "heading": "Uma família rica e uma disputa sem fim",
+        "paragraphs": [
+          "A família de Hong Hae-in me parece aquela típica família rica em que cada um está disputando para ver quem consegue ficar com mais.",
+          "A riqueza, em vez de garantir união, aparece cercada de rivalidades e interesses. Na minha leitura, essa disputa pelo dinheiro e pelo poder revela muito sobre o caráter dos personagens.",
+          "Esse é um dos contrastes mais interessantes da série: ter tantos recursos materiais não significa saber cuidar das próprias relações."
+        ]
+      },
+      {
+        "heading": "A doença revela sentimentos que já existiam",
+        "paragraphs": [
+          "A doença de Hong Hae-in não criou sentimentos novos entre ela e Baek Hyun-woo. Na minha interpretação, ela fez aflorar o que já estava ali, escondido pelos traumas, pelo ego e pela falta de comunicação.",
+          "O que me marcou foi perceber que ele só passou a dar o devido valor à esposa quando quase a perdeu. A possibilidade de perda muda a forma como ele enxerga o relacionamento.",
+          "Essa parte da história traz uma reflexão importante: por que, às vezes, esperamos uma situação extrema para demonstrar o quanto alguém significa para nós?"
+        ]
+      },
+      {
+        "heading": "Vale a pena assistir Rainha das Lágrimas?",
+        "paragraphs": [
+          "Pelo que assisti, Rainha das Lágrimas é uma história que vai além do romance. O drama mistura ambição, conflitos familiares, traumas e mudanças pessoais, enquanto acompanha duas pessoas que têm dificuldade de demonstrar o que sentem.",
+          "O que mais ficou comigo foi a ideia de que o amor pode continuar existindo mesmo quando o orgulho e a falta de diálogo tornam a convivência difícil. Também me chamou a atenção a família que, apesar de rica, vive disputando dinheiro e poder.",
+          "Ainda não assisti ao desfecho. Por isso, esta é uma resenha parcial e sem spoilers do final, baseada no que a série me fez refletir até aqui."
+        ]
+      }
+    ]
   }
 ];
 export const getCategory=(slug:string)=>categories.find(c=>c.slug===slug);
